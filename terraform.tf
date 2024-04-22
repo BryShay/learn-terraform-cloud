@@ -1,10 +1,10 @@
 terraform {
-
+/*
   cloud {
-    organization = "organization-name"
+    organization = "Bry-AWS-Class"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "School-Tutorials"
     }
   }
 
